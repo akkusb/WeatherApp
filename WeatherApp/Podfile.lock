@@ -1,0 +1,56 @@
+PODS:
+  - ActionSheetPicker-3.0 (2.3.0)
+  - Alamofire (4.7.2)
+  - AlamofireImage (3.3.1):
+    - Alamofire (~> 4.5)
+  - Bagel (1.2.1):
+    - BagelCore (= 1.2.1)
+    - CocoaAsyncSocket
+  - BagelCore (1.2.1)
+  - CocoaAsyncSocket (7.6.3)
+  - KeyboardDismisser (0.2.2)
+  - ScrollTo (0.1.2)
+  - SVProgressHUD (2.2.5)
+  - SwipeView (1.3.2)
+  - TPKeyboardAvoiding (1.3.2)
+  - TTTAttributedLabel (2.0.0)
+
+DEPENDENCIES:
+  - ActionSheetPicker-3.0
+  - Alamofire
+  - AlamofireImage (~> 3.3)
+  - Bagel (from `https://github.com/yagiz/Bagel.git`, branch `pre`)
+  - KeyboardDismisser
+  - ScrollTo
+  - SVProgressHUD
+  - SwipeView (~> 1.3)
+  - TPKeyboardAvoiding
+  - TTTAttributedLabel (~> 2.0)
+
+EXTERNAL SOURCES:
+  Bagel:
+    :branch: pre
+    :git: https://github.com/yagiz/Bagel.git
+
+CHECKOUT OPTIONS:
+  Bagel:
+    :commit: 1e5d88a0a198b2d189615e6aa2363a0a2289e336
+    :git: https://github.com/yagiz/Bagel.git
+
+SPEC CHECKSUMS:
+  ActionSheetPicker-3.0: eef157d75e151f255c5333d26656c7fbfe905a51
+  Alamofire: e4fa87002c137ba2d8d634d2c51fabcda0d5c223
+  AlamofireImage: 3b35b586853abaf94ca1250f4e94cff3c21a4c0d
+  Bagel: b0ff79a00af1bb12bf62b0a4f1fe8b684c543d26
+  BagelCore: 85bb78a7a224f29db3c08ed354396cd8333e7417
+  CocoaAsyncSocket: eafaa68a7e0ec99ead0a7b35015e0bf25d2c8987
+  KeyboardDismisser: 94cbe299dea9db18ef57588e89bd6290d3e52d70
+  ScrollTo: bcf14f7ede572b32339231b1cae9d247cf2f2259
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  SwipeView: bd67cfaf7760c036438446b3ccb28a3b84fce009
+  TPKeyboardAvoiding: cb69d5ddbe90ce0170e4bc2db1e5e41d4a3ad9a4
+  TTTAttributedLabel: 8cffe8e127e4e82ff3af1e5386d4cd0ad000b656
+
+PODFILE CHECKSUM: a9ec79b03a07d6954c0cb0c7842b89105382f390
+
+COCOAPODS: 1.4.0

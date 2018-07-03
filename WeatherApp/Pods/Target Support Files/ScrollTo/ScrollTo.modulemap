@@ -1,0 +1,6 @@
+framework module ScrollTo {
+  umbrella header "ScrollTo-umbrella.h"
+
+  export *
+  module * { export * }
+}
